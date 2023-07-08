@@ -9,6 +9,7 @@ Link to GitHub repo:
 https://github.com/elleinadseer/sequelize-commerce-w13
 
 Walkthrough video:
+
 Part 1: https://drive.google.com/file/d/1rG2ni54UjrngfDKUpDghrQJBg4mgBG-B/view
 
 Part 2: https://drive.google.com/file/d/1rJAguyTS6li2ipakWWWZwZ-v_XZ9-VNQ/view
